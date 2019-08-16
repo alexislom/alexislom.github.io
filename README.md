@@ -2,9 +2,15 @@
 
 <img src="https://user-images.githubusercontent.com/14113859/63166133-27cca200-c036-11e9-8896-dc441bce7f27.jpg" align="right" width="400">
 
-### Markdown
+### Contact information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Date of birth: September 24, 1996
+Cellular phone: +375333252732
+E-mail: alexislomako@gmail.com
+Skype: aleksei-lom
+LinkedIn:
+https://www.linkedin.com/in/aliaksei-lamaka/
+Experience in backend web development, desktop apps and mobile games apps (social online casino) using .NET.
 
 ```markdown
 Syntax highlighted code block
