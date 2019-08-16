@@ -1,6 +1,6 @@
 ## Experience in desktop apps, mobile games apps (social online casino) and backend web development using .NET.
 
-<img src="https://user-images.githubusercontent.com/14113859/63166133-27cca200-c036-11e9-8896-dc441bce7f27.jpg" align="right" width="400" hspace="20">
+<img src="https://user-images.githubusercontent.com/14113859/63166133-27cca200-c036-11e9-8896-dc441bce7f27.jpg" align="right" width="400" hspace="20" vspace="10">
 
 ### Contact information
 
@@ -10,58 +10,32 @@
 - Skype: aleksei-lom
 - [LinkedIn](https://www.linkedin.com/in/aliaksei-lamaka/)
 
+### Work experience
+
 ```markdown
-Syntax highlighted code block
-
-# big header
-## small header
-### the smallest header
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- **March 2018 until now**
+- .NET developer
+- OOO “Гамбино”
+- Type of business – game development
+- Major Duties: Implementing new features, creating and adding new slots, bug fixing. Communicating with integration and server teams.
+- Support internal desktop tools.
+- **Technologies: .NET, Win Forms, WPF, Xamarin
 ```
 
 ```markdown
-Syntax highlighted code block
-
-# big header
-## small header
-### the smallest header
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- **December 2017 - March 2018**
+- .NET developer
+- ООО “Эффективные программы”
+- Type of business – software development
+- Major Duties: Development and support WPF application (UI client for trading)
 ```
 
 ```markdown
-Syntax highlighted code block
-
-# big header
-## small header
-### the smallest header
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- **September 2017 - December 2017**
+- .NET developer
+- ООО “Эпам системз”
+- Type of business – software development
+- Major Duties: Backend development of web application.
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
