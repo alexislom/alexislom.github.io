@@ -13,17 +13,17 @@
 ### Work experience
 
 ```markdown
-- **March 2018 until now**
+- March 2018 until now
 - .NET developer
 - OOO “Гамбино”
 - Type of business – game development
 - Major Duties: Implementing new features, creating and adding new slots, bug fixing. Communicating with integration and server teams.
 - Support internal desktop tools.
-- **Technologies: .NET, Win Forms, WPF, Xamarin
+- Technologies: .NET, Win Forms, WPF, Xamarin
 ```
 
 ```markdown
-- **December 2017 - March 2018**
+- December 2017 - March 2018
 - .NET developer
 - ООО “Эффективные программы”
 - Type of business – software development
@@ -31,7 +31,7 @@
 ```
 
 ```markdown
-- **September 2017 - December 2017**
+- September 2017 - December 2017
 - .NET developer
 - ООО “Эпам системз”
 - Type of business – software development
