@@ -1,6 +1,6 @@
 ## Experience in desktop apps, mobile games apps (social online casino) and backend web development using .NET.
 
-<img src="https://user-images.githubusercontent.com/14113859/63166133-27cca200-c036-11e9-8896-dc441bce7f27.jpg" align="right" width="380" hspace="10" vspace="10">
+<img src="https://user-images.githubusercontent.com/14113859/63166133-27cca200-c036-11e9-8896-dc441bce7f27.jpg" align="right" width="370" hspace="10" vspace="10">
 
 ### Contact information
 
@@ -41,10 +41,25 @@
 - Major Duties: Backend development of web application.
 ```
 
-### Jekyll Themes
+### Education
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alexislom/alexislom.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Belorussian State University
+* 2014-2018
+* Faculty of Applied Mathematics and Computer Science
 
-### Support or Contact
+### Trainings and certificates
+* EPAM .NET training and EPAM .NET lab
+* March 2017 - August 2017
+* Minsk
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Intermediate course of English language MSLU
+* September 2017 - August 2018
+* Minsk
+
+### Skills and tools
+.NET Framework, .NET Core, C#, WPF, Xamarin, Windows Forms, ASP.NET MVC, ASP.NET Web API, Git, TFS, SVN, Entity Framework, MVVM, MVC, MVP, XAML, OOP, Design Patterns, SOLID, Algorithms, CI/CD (Team City, Jenkins), Visual Studio, ReSharper
+
+### Languages (spoken and written)
+
+* Russian (native)
+* English (intermediate)
