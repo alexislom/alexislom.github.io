@@ -1,23 +1,21 @@
-## Welcome to GitHub Pages
+## Experience in desktop apps, mobile games apps (social online casino) and backend web development using .NET.
 
 <img src="https://user-images.githubusercontent.com/14113859/63166133-27cca200-c036-11e9-8896-dc441bce7f27.jpg" align="right" width="400">
 
 ### Contact information
 
-Date of birth: September 24, 1996
-Cellular phone: +375333252732
-E-mail: alexislomako@gmail.com
-Skype: aleksei-lom
-LinkedIn:
-https://www.linkedin.com/in/aliaksei-lamaka/
-Experience in backend web development, desktop apps and mobile games apps (social online casino) using .NET.
+- Date of birth: September 24, 1996
+- Cellular phone: +375333252732
+- E-mail: alexislomako@gmail.com
+- Skype: aleksei-lom
+- [LinkedIn](https://www.linkedin.com/in/aliaksei-lamaka/)
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# big header
+## small header
+### the smallest header
 
 - Bulleted
 - List
