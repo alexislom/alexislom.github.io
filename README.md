@@ -49,12 +49,12 @@
 
 ### Trainings and certificates
 * EPAM .NET training and EPAM .NET lab
-* March 2017 - August 2017
-* Minsk
+  - March 2017 - August 2017
+  - Minsk
 
 * Intermediate course of English language MSLU
-* September 2017 - August 2018
-* Minsk
+  - September 2017 - August 2018
+  - Minsk
 
 ### Skills and tools
 .NET Framework, .NET Core, C#, WPF, Xamarin, Windows Forms, ASP.NET MVC, ASP.NET Web API, Git, TFS, SVN, Entity Framework, MVVM, MVC, MVP, XAML, OOP, Design Patterns, SOLID, Algorithms, CI/CD (Team City, Jenkins), Visual Studio, ReSharper
