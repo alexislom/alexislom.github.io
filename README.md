@@ -1,6 +1,6 @@
 ## Experience in desktop apps, mobile games apps (social online casino) and backend web development using .NET.
 
-<img src="https://user-images.githubusercontent.com/14113859/63166133-27cca200-c036-11e9-8896-dc441bce7f27.jpg" align="right" width="400">
+<img src="https://user-images.githubusercontent.com/14113859/63166133-27cca200-c036-11e9-8896-dc441bce7f27.jpg" align="right" width="400" hspace="20">
 
 ### Contact information
 
@@ -9,6 +9,42 @@
 - E-mail: alexislomako@gmail.com
 - Skype: aleksei-lom
 - [LinkedIn](https://www.linkedin.com/in/aliaksei-lamaka/)
+
+```markdown
+Syntax highlighted code block
+
+# big header
+## small header
+### the smallest header
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+```markdown
+Syntax highlighted code block
+
+# big header
+## small header
+### the smallest header
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
 
 ```markdown
 Syntax highlighted code block
