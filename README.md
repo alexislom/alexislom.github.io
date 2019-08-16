@@ -1,6 +1,6 @@
 ## Experience in desktop apps, mobile games apps (social online casino) and backend web development using .NET.
 
-<img src="https://user-images.githubusercontent.com/14113859/63166133-27cca200-c036-11e9-8896-dc441bce7f27.jpg" align="right" width="400" hspace="10" vspace="10">
+<img src="https://user-images.githubusercontent.com/14113859/63166133-27cca200-c036-11e9-8896-dc441bce7f27.jpg" align="right" width="380" hspace="10" vspace="10">
 
 ### Contact information
 
