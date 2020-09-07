@@ -16,7 +16,7 @@
 ```markdown
 - Laerdal
 - Xamarin developer
-- Type of business – software development, medicine
+- Type of business: software development, medicine
 - Major Duties: Crossplatform development of an application
   for chest compressions on manikin
 - Main technologies: Xamarin.Forms
