@@ -11,35 +11,57 @@
 - Skype: aleksei-lom
 - [LinkedIn](https://www.linkedin.com/in/aliaksei-lamaka/)
 
-### Work experience
+### Work experience, projects
 
 ```markdown
-- March 2018 until now
-- .NET developer
-- Gambino
-- Type of business – game development
-- Major Duties: Implementing new features,
-  creating and adding new slots, bug fixing.
-  Communicating with integration and server teams
-- Support internal desktop tools.
-- Technologies: .NET, Win Forms, WPF, Xamarin
+- Laerdal
+- Xamarin developer
+- Type of business – software development, medicine
+- Major Duties: Crossplatform development of an application
+  for chest compressions on manikin
+- Main technologies: Xamarin.Forms
 ```
 
 ```markdown
-- December 2017 - March 2018
-- .NET developer
-- EffectiveSoft
+- Carsleep
+- Xamarin developer
 - Type of business – software development
-- Major Duties: Development and support WPF
-  application (UI client for trading)
+- Major Duties: Crossplatform development of an application
+  for booking parking.
+- Main technologies: Xamarin.Native, MVVMCross
 ```
 
 ```markdown
-- September 2017 - December 2017
-- .NET developer
-- EPAM
+- NTS
+- .NET developer (Xamarin.Forms)
+- Type of business – software development
+- Major Duties: Crossplatform development of an application for interacting with cash registers for Windows, Linux and Android platforms.
+- Main technologies: Xamarin.Forms, GTK
+```
+
+```markdown
+- Gambino
+- .NET developer (Client)
+- Type of business – game development
+- Major Duties: Implementing new features, creating and adding new slots, bug fixing.
+  Communicating with integration and server teams, support internal desktop tools.
+- Main technologies: .NET Framework, Win Forms, WPF, Xamarin
+```
+
+```markdown
+- ATPro
+- .NET developer (WPF)
+- Type of business – software development
+- Major Duties: Development and support WPF application (UI client for trading)
+- Main technologies: .NET Framework, WPF, PRISM
+```
+
+```markdown
+- Thomson Reuters
+- .NET developer (fullstack)
 - Type of business – software development
 - Major Duties: Backend development of web application.
+- Main technologies: .NET Framework, ASP.NET Web API, Backbone.js, Undescore.js, JQuery
 ```
 
 ### Education
