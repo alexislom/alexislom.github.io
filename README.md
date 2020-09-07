@@ -16,7 +16,7 @@
 ```markdown
 - March 2018 until now
 - .NET developer
-- OOO “Гамбино”
+- Gambino
 - Type of business – game development
 - Major Duties: Implementing new features,
   creating and adding new slots, bug fixing.
@@ -28,7 +28,7 @@
 ```markdown
 - December 2017 - March 2018
 - .NET developer
-- ООО “Эффективные программы”
+- EffectiveSoft
 - Type of business – software development
 - Major Duties: Development and support WPF
   application (UI client for trading)
@@ -37,7 +37,7 @@
 ```markdown
 - September 2017 - December 2017
 - .NET developer
-- ООО “Эпам системз”
+- EPAM
 - Type of business – software development
 - Major Duties: Backend development of web application.
 ```
@@ -46,7 +46,7 @@
 
 * Belorussian State University (Master)
   - 2018-2020
-  - Faculty of Mechanics and Mathematics 
+  - Mechanics and Mathematics Faculty
   - Speciality: "Mathematical and software for mobile devices"
   
 * Belorussian State University (Bachelor)
@@ -61,7 +61,9 @@
   - Minsk
 
 * Intermediate course of English language MSLU
-  - September 2017 - August 2018
+  - October 2017 - July 2018
+  - Minsk
+  - October 2018 - July 2019
   - Minsk
 
 ### Skills and tools
