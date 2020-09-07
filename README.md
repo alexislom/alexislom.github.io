@@ -44,9 +44,16 @@
 
 ### Education
 
-* Belorussian State University
+* Belorussian State University (Master)
+  - 2018-2020
+  - Faculty of Mechanics and Mathematics 
+  - Speciality: "Mathematical and software for mobile devices"
+  
+* Belorussian State University (Bachelor)
   - 2014-2018
   - Faculty of Applied Mathematics and Computer Science
+  - Speciality: "Applied Mathematics"
+  - Specialization: "Theory of Probabilities and Mathematical Statistics"
 
 ### Trainings and certificates
 * EPAM .NET training and EPAM .NET lab
