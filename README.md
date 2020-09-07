@@ -7,6 +7,7 @@
 - Date of birth: September 24, 1996
 - Cellular phone: +375333252732
 - E-mail: alexislomako@gmail.com
+- Telegram: alexislom (preferred communication method)
 - Skype: aleksei-lom
 - [LinkedIn](https://www.linkedin.com/in/aliaksei-lamaka/)
 
