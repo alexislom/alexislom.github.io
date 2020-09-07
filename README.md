@@ -1,5 +1,3 @@
-## Experience in desktop apps, mobile games apps (social online casino) and backend web development using .NET.
-
 <img src="https://user-images.githubusercontent.com/14113859/63166133-27cca200-c036-11e9-8896-dc441bce7f27.jpg" align="right" width="365" hspace="10" vspace="10">
 
 ### Contact information
@@ -17,8 +15,8 @@
 - Xamarin developer
 - Type of business: software development,
                     medicine
-- Major Duties: Crossplatform development of
-  an application for chest compressions on manikin.
+- Major Duties: Crossplatform development of an
+  application for chest compressions on manikin.
 - Main technologies: Xamarin.Forms
 ```
 
@@ -90,7 +88,7 @@
   - Minsk
 
 ### Skills and tools
-  .NET Framework, .NET Core, C#, WPF, Xamarin, Windows Forms, ASP.NET MVC, ASP.NET Web API, Git, TFS, SVN, Entity Framework, MVVM, MVC, MVP, XAML, OOP, Design Patterns, SOLID, Algorithms, CI/CD (Team City, Jenkins), Visual Studio, ReSharper
+  .NET, Xamarin.Forms, Xamarin.Native, MVVM, SkiaSharp, MVVM Frameworks, Git, Jira, OOP, Design Patterns, SOLID, Algorithms
 
 ### Languages (spoken and written)
 
