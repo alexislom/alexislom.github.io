@@ -9,33 +9,34 @@
 - E-mail: alexislomako@gmail.com
 - Telegram: alexislom (preferred communication method)
 - Skype: aleksei-lom
-- [LinkedIn](https://www.linkedin.com/in/aliaksei-lamaka/)
 
 ### Work experience, projects
 
 ```markdown
 - Laerdal
 - Xamarin developer
-- Type of business: software development, medicine
-- Major Duties: Crossplatform development of an application
-  for chest compressions on manikin
+- Type of business: software development,
+                    medicine
+- Major Duties: Crossplatform development of
+  an application for chest compressions on manikin.
 - Main technologies: Xamarin.Forms
 ```
 
 ```markdown
 - Carsleep
 - Xamarin developer
-- Type of business – software development
-- Major Duties: Crossplatform development of an application
-  for booking parking.
+- Type of business: software development
+- Major Duties: Crossplatform development of
+  an application for booking parking.
 - Main technologies: Xamarin.Native, MVVMCross
 ```
 
 ```markdown
 - NTS
 - .NET developer (Xamarin.Forms)
-- Type of business – software development
-- Major Duties: Crossplatform development of an application for interacting with cash registers for Windows, Linux and Android platforms.
+- Type of business: software development
+- Major Duties: Crossplatform development of an application for
+  interacting with cash registers for Windows, Linux and Android platforms.
 - Main technologies: Xamarin.Forms, GTK
 ```
 
